@@ -7,6 +7,11 @@ Este repositorio contiene la segunda fase del proyecto de análisis de datos par
 El objetivo principal de este proyecto es desarrollar un modelo predictivo robusto capaz de identificar a los clientes con alta probabilidad de cancelar su servicio. Al predecir el churn de manera proactiva, Telecom X puede implementar estrategias de retención dirigidas, reducir la pérdida de ingresos y mejorar la lealtad de sus clientes.
 
 ## 📁 Estructura del Proyecto
+├── datos_para_modelo.csv # Conjunto de datos limpio y preprocesado, listo para el modelado.
+
+├── Telecom_X_Parte_2.ipynb # Notebook de Google Colab con todo el código de modelado y evaluación.
+
+└── README.md # Este archivo, con la explicación del proyecto.
 
 El repositorio está organizado de la siguiente manera para facilitar su comprensión y ejecución:
 ## ⚙️ Proceso de Preparación de Datos
